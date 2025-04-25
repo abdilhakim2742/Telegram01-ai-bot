@@ -4,10 +4,10 @@ import requests
 import time
 
 # === CONFIGURATION ===
-TOKEN = '7536364018:AAHHnyxEV3FCSJhEKKwsvI5YD7wBN9gO8SI'           # Replace with your Bot Token from BotFather
-OWNER_ID = 6064959725                        # Replace with your Telegram user ID (get it from @userinfobot)
-TOGETHER_API_KEY = '51a694d27b2936da48061bb9764694fe65659719b9368b9dd57e20309cd3de99'  # Replace with your API key from Together.ai
-GROQ_API_KEY = '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'          # Replace with your Groq API key
+TOKEN = 'API'           # Replace with your Bot Token from BotFather
+OWNER_ID = TELEGRAM ID                       # Replace with your Telegram user ID (get it from @userinfobot)
+TOGETHER_API_KEY = 'API'  # Replace with your API key from Together.ai
+GROQ_API_KEY = 'API'          # Replace with your Groq API key
 
 # === AI Functions ===
 def get_groq_reply(message):
